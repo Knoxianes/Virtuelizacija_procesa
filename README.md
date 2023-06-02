@@ -1,1 +1,1 @@
-# Virtuerlizacija-procesa
+# Virtuelizacija-procesa
