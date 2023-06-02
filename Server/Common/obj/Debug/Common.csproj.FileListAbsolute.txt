@@ -1,0 +1,30 @@
+C:\Users\ducar\source\repos\Server\Common\bin\Debug\Common.dll
+C:\Users\ducar\source\repos\Server\Common\bin\Debug\Common.pdb
+C:\Users\ducar\source\repos\Server\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\ducar\source\repos\Server\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\ducar\source\repos\Server\Common\obj\Debug\Common.dll
+C:\Users\ducar\source\repos\Server\Common\obj\Debug\Common.pdb
+C:\Users\Zlatko\Desktop\Virtuelizacija projekat\Server\Common\bin\Debug\Common.dll
+C:\Users\Zlatko\Desktop\Virtuelizacija projekat\Server\Common\bin\Debug\Common.pdb
+C:\Users\Zlatko\Desktop\Virtuelizacija projekat\Server\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Zlatko\Desktop\Virtuelizacija projekat\Server\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Zlatko\Desktop\Virtuelizacija projekat\Server\Common\obj\Debug\Common.dll
+C:\Users\Zlatko\Desktop\Virtuelizacija projekat\Server\Common\obj\Debug\Common.pdb
+C:\Users\Zlatko\Downloads\Virtuelizacija_projekat\Virtuelizacija projekat\Server\Common\bin\Debug\Common.dll
+C:\Users\Zlatko\Downloads\Virtuelizacija_projekat\Virtuelizacija projekat\Server\Common\bin\Debug\Common.pdb
+C:\Users\Zlatko\Downloads\Virtuelizacija_projekat\Virtuelizacija projekat\Server\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Zlatko\Downloads\Virtuelizacija_projekat\Virtuelizacija projekat\Server\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Zlatko\Downloads\Virtuelizacija_projekat\Virtuelizacija projekat\Server\Common\obj\Debug\Common.dll
+C:\Users\Zlatko\Downloads\Virtuelizacija_projekat\Virtuelizacija projekat\Server\Common\obj\Debug\Common.pdb
+C:\Users\Zlatko\Desktop\Virtuelizacija-procesa\Server\Common\bin\Debug\Common.dll
+C:\Users\Zlatko\Desktop\Virtuelizacija-procesa\Server\Common\bin\Debug\Common.pdb
+C:\Users\Zlatko\Desktop\Virtuelizacija-procesa\Server\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Zlatko\Desktop\Virtuelizacija-procesa\Server\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Zlatko\Desktop\Virtuelizacija-procesa\Server\Common\obj\Debug\Common.dll
+C:\Users\Zlatko\Desktop\Virtuelizacija-procesa\Server\Common\obj\Debug\Common.pdb
+C:\Users\ducar\OneDrive\Desktop\fiksanje\Virtuelizacija-procesa\Server\Common\bin\Debug\Common.dll
+C:\Users\ducar\OneDrive\Desktop\fiksanje\Virtuelizacija-procesa\Server\Common\bin\Debug\Common.pdb
+C:\Users\ducar\OneDrive\Desktop\fiksanje\Virtuelizacija-procesa\Server\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\ducar\OneDrive\Desktop\fiksanje\Virtuelizacija-procesa\Server\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\ducar\OneDrive\Desktop\fiksanje\Virtuelizacija-procesa\Server\Common\obj\Debug\Common.dll
+C:\Users\ducar\OneDrive\Desktop\fiksanje\Virtuelizacija-procesa\Server\Common\obj\Debug\Common.pdb

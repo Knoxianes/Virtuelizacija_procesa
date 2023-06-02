@@ -1,0 +1,93 @@
+C:\Users\ducar\source\repos\Server\Client\bin\Debug\Client.exe.config
+C:\Users\ducar\source\repos\Server\Client\bin\Debug\Client.exe
+C:\Users\ducar\source\repos\Server\Client\bin\Debug\Client.pdb
+C:\Users\ducar\source\repos\Server\Client\bin\Debug\Common.dll
+C:\Users\ducar\source\repos\Server\Client\bin\Debug\Common.pdb
+C:\Users\ducar\source\repos\Server\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\ducar\source\repos\Server\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\ducar\source\repos\Server\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\ducar\source\repos\Server\Client\obj\Debug\Client.exe
+C:\Users\ducar\source\repos\Server\Client\obj\Debug\Client.pdb
+C:\Users\Zlatko\Desktop\Virtuelizacija projekat\Server\Client\bin\Debug\Client.exe.config
+C:\Users\Zlatko\Desktop\Virtuelizacija projekat\Server\Client\bin\Debug\Client.exe
+C:\Users\Zlatko\Desktop\Virtuelizacija projekat\Server\Client\bin\Debug\Client.pdb
+C:\Users\Zlatko\Desktop\Virtuelizacija projekat\Server\Client\bin\Debug\Common.dll
+C:\Users\Zlatko\Desktop\Virtuelizacija projekat\Server\Client\bin\Debug\Common.pdb
+C:\Users\Zlatko\Desktop\Virtuelizacija projekat\Server\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Zlatko\Desktop\Virtuelizacija projekat\Server\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zlatko\Desktop\Virtuelizacija projekat\Server\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Zlatko\Desktop\Virtuelizacija projekat\Server\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Zlatko\Desktop\Virtuelizacija projekat\Server\Client\obj\Debug\Client.exe
+C:\Users\Zlatko\Desktop\Virtuelizacija projekat\Server\Client\obj\Debug\Client.pdb
+C:\Users\Zlatko\Desktop\Virtuelizacija projekat\Server\Client\bin\Debug\Database.exe
+C:\Users\Zlatko\Desktop\Virtuelizacija projekat\Server\Client\bin\Debug\Database.pdb
+C:\Users\Zlatko\Desktop\Virtuelizacija projekat\Server\Client\bin\Debug\Database.exe.config
+C:\Users\Zlatko\Desktop\Virtuelizacija projekat\Server\Client\bin\Debug\App.config
+C:\Users\Zlatko\Downloads\Virtuelizacija_projekat\Virtuelizacija projekat\Server\Client\bin\Debug\App.config
+C:\Users\Zlatko\Downloads\Virtuelizacija_projekat\Virtuelizacija projekat\Server\Client\bin\Debug\Client.exe.config
+C:\Users\Zlatko\Downloads\Virtuelizacija_projekat\Virtuelizacija projekat\Server\Client\bin\Debug\Client.exe
+C:\Users\Zlatko\Downloads\Virtuelizacija_projekat\Virtuelizacija projekat\Server\Client\bin\Debug\Client.pdb
+C:\Users\Zlatko\Downloads\Virtuelizacija_projekat\Virtuelizacija projekat\Server\Client\bin\Debug\Common.dll
+C:\Users\Zlatko\Downloads\Virtuelizacija_projekat\Virtuelizacija projekat\Server\Client\bin\Debug\Database.exe
+C:\Users\Zlatko\Downloads\Virtuelizacija_projekat\Virtuelizacija projekat\Server\Client\bin\Debug\Common.pdb
+C:\Users\Zlatko\Downloads\Virtuelizacija_projekat\Virtuelizacija projekat\Server\Client\bin\Debug\Database.pdb
+C:\Users\Zlatko\Downloads\Virtuelizacija_projekat\Virtuelizacija projekat\Server\Client\bin\Debug\Database.exe.config
+C:\Users\Zlatko\Downloads\Virtuelizacija_projekat\Virtuelizacija projekat\Server\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Zlatko\Downloads\Virtuelizacija_projekat\Virtuelizacija projekat\Server\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zlatko\Downloads\Virtuelizacija_projekat\Virtuelizacija projekat\Server\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Zlatko\Downloads\Virtuelizacija_projekat\Virtuelizacija projekat\Server\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Zlatko\Downloads\Virtuelizacija_projekat\Virtuelizacija projekat\Server\Client\obj\Debug\Client.exe
+C:\Users\Zlatko\Downloads\Virtuelizacija_projekat\Virtuelizacija projekat\Server\Client\obj\Debug\Client.pdb
+C:\Users\Zlatko\Desktop\Virtuelizacija-procesa\Server\Client\bin\Debug\App.config
+C:\Users\Zlatko\Desktop\Virtuelizacija-procesa\Server\Client\bin\Debug\Client.exe.config
+C:\Users\Zlatko\Desktop\Virtuelizacija-procesa\Server\Client\bin\Debug\Client.exe
+C:\Users\Zlatko\Desktop\Virtuelizacija-procesa\Server\Client\bin\Debug\Client.pdb
+C:\Users\Zlatko\Desktop\Virtuelizacija-procesa\Server\Client\bin\Debug\Common.dll
+C:\Users\Zlatko\Desktop\Virtuelizacija-procesa\Server\Client\bin\Debug\Database.exe
+C:\Users\Zlatko\Desktop\Virtuelizacija-procesa\Server\Client\bin\Debug\Server.exe
+C:\Users\Zlatko\Desktop\Virtuelizacija-procesa\Server\Client\bin\Debug\Common.pdb
+C:\Users\Zlatko\Desktop\Virtuelizacija-procesa\Server\Client\bin\Debug\Database.pdb
+C:\Users\Zlatko\Desktop\Virtuelizacija-procesa\Server\Client\bin\Debug\Database.exe.config
+C:\Users\Zlatko\Desktop\Virtuelizacija-procesa\Server\Client\bin\Debug\Server.pdb
+C:\Users\Zlatko\Desktop\Virtuelizacija-procesa\Server\Client\bin\Debug\Server.exe.config
+C:\Users\Zlatko\Desktop\Virtuelizacija-procesa\Server\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Zlatko\Desktop\Virtuelizacija-procesa\Server\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Zlatko\Desktop\Virtuelizacija-procesa\Server\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Zlatko\Desktop\Virtuelizacija-procesa\Server\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\Zlatko\Desktop\Virtuelizacija-procesa\Server\Client\obj\Debug\Client.exe
+C:\Users\Zlatko\Desktop\Virtuelizacija-procesa\Server\Client\obj\Debug\Client.pdb
+C:\Users\strah\OneDrive\Dokumenti\GitHub\Virtuelizacija-procesa\Server\Client\bin\Debug\App.config
+C:\Users\strah\OneDrive\Dokumenti\GitHub\Virtuelizacija-procesa\Server\Client\bin\Debug\Client.exe.config
+C:\Users\strah\OneDrive\Dokumenti\GitHub\Virtuelizacija-procesa\Server\Client\bin\Debug\Client.exe
+C:\Users\strah\OneDrive\Dokumenti\GitHub\Virtuelizacija-procesa\Server\Client\bin\Debug\Client.pdb
+C:\Users\strah\OneDrive\Dokumenti\GitHub\Virtuelizacija-procesa\Server\Client\bin\Debug\Common.dll
+C:\Users\strah\OneDrive\Dokumenti\GitHub\Virtuelizacija-procesa\Server\Client\bin\Debug\Database.exe
+C:\Users\strah\OneDrive\Dokumenti\GitHub\Virtuelizacija-procesa\Server\Client\bin\Debug\Server.exe
+C:\Users\strah\OneDrive\Dokumenti\GitHub\Virtuelizacija-procesa\Server\Client\bin\Debug\Common.pdb
+C:\Users\strah\OneDrive\Dokumenti\GitHub\Virtuelizacija-procesa\Server\Client\bin\Debug\Database.pdb
+C:\Users\strah\OneDrive\Dokumenti\GitHub\Virtuelizacija-procesa\Server\Client\bin\Debug\Database.exe.config
+C:\Users\strah\OneDrive\Dokumenti\GitHub\Virtuelizacija-procesa\Server\Client\bin\Debug\Server.pdb
+C:\Users\strah\OneDrive\Dokumenti\GitHub\Virtuelizacija-procesa\Server\Client\bin\Debug\Server.exe.config
+C:\Users\strah\OneDrive\Dokumenti\GitHub\Virtuelizacija-procesa\Server\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\strah\OneDrive\Dokumenti\GitHub\Virtuelizacija-procesa\Server\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\strah\OneDrive\Dokumenti\GitHub\Virtuelizacija-procesa\Server\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\strah\OneDrive\Dokumenti\GitHub\Virtuelizacija-procesa\Server\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\strah\OneDrive\Dokumenti\GitHub\Virtuelizacija-procesa\Server\Client\obj\Debug\Client.exe
+C:\Users\strah\OneDrive\Dokumenti\GitHub\Virtuelizacija-procesa\Server\Client\obj\Debug\Client.pdb
+C:\Users\ducar\OneDrive\Desktop\fiksanje\Virtuelizacija-procesa\Server\Client\bin\Debug\App.config
+C:\Users\ducar\OneDrive\Desktop\fiksanje\Virtuelizacija-procesa\Server\Client\bin\Debug\Client.exe.config
+C:\Users\ducar\OneDrive\Desktop\fiksanje\Virtuelizacija-procesa\Server\Client\bin\Debug\Client.exe
+C:\Users\ducar\OneDrive\Desktop\fiksanje\Virtuelizacija-procesa\Server\Client\bin\Debug\Client.pdb
+C:\Users\ducar\OneDrive\Desktop\fiksanje\Virtuelizacija-procesa\Server\Client\bin\Debug\Common.dll
+C:\Users\ducar\OneDrive\Desktop\fiksanje\Virtuelizacija-procesa\Server\Client\bin\Debug\Database.exe
+C:\Users\ducar\OneDrive\Desktop\fiksanje\Virtuelizacija-procesa\Server\Client\bin\Debug\Server.exe
+C:\Users\ducar\OneDrive\Desktop\fiksanje\Virtuelizacija-procesa\Server\Client\bin\Debug\Common.pdb
+C:\Users\ducar\OneDrive\Desktop\fiksanje\Virtuelizacija-procesa\Server\Client\bin\Debug\Database.pdb
+C:\Users\ducar\OneDrive\Desktop\fiksanje\Virtuelizacija-procesa\Server\Client\bin\Debug\Database.exe.config
+C:\Users\ducar\OneDrive\Desktop\fiksanje\Virtuelizacija-procesa\Server\Client\bin\Debug\Server.pdb
+C:\Users\ducar\OneDrive\Desktop\fiksanje\Virtuelizacija-procesa\Server\Client\bin\Debug\Server.exe.config
+C:\Users\ducar\OneDrive\Desktop\fiksanje\Virtuelizacija-procesa\Server\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\ducar\OneDrive\Desktop\fiksanje\Virtuelizacija-procesa\Server\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\ducar\OneDrive\Desktop\fiksanje\Virtuelizacija-procesa\Server\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\ducar\OneDrive\Desktop\fiksanje\Virtuelizacija-procesa\Server\Client\obj\Debug\Client.exe
+C:\Users\ducar\OneDrive\Desktop\fiksanje\Virtuelizacija-procesa\Server\Client\obj\Debug\Client.pdb
